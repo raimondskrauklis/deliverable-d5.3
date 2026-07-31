@@ -1,0 +1,3 @@
+[submodule "fastpredict"]
+	path = fastpredict
+	url = https://git.astron.nl/RD/predict.git
