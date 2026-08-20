@@ -1,3 +1,18 @@
 [submodule "fastpredict"]
 	path = fastpredict
 	url = https://git.astron.nl/RD/predict.git
+[submodule "xarray-ms"]
+	path = xarray-ms
+	url = https://github.com/ratt-ru/xarray-ms.git
+[submodule "xarray-kat"]
+	path = xarray-kat
+	url = https://github.com/ratt-ru/xarray-kat.git
+[submodule "tricolour"]
+	path = tricolour
+	url = https://github.com/ratt-ru/tricolour.git
+[submodule "QuartiCal"]
+	path = QuartiCal
+	url = https://github.com/ratt-ru/QuartiCal.git
+[submodule "pfb-imaging"]
+	path = pfb-imaging
+	url = https://github.com/ratt-ru/pfb-imaging.git
