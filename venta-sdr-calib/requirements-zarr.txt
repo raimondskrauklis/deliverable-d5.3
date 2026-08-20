@@ -1,0 +1,4 @@
+# Pinned separately because the framework-only benchmark does not require Zarr.
+# Zarr 3 changed the storage and codec APIs used by the historical archives.
+zarr==2.18.7
+numcodecs==0.15.1
