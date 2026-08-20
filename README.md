@@ -11,6 +11,11 @@ The repository aggregates individual software components as Git submodules. Each
 Current submodules:
 
 - [`fastpredict`](fastpredict/) — A LOFAR package for predicting visibilities from sky model components using direct prediction methods.
+- [`QuartiCal`](QuartiCal/) — A GPU-accelerated calibration solution solver for radio interferometric data.
+- [`pfb-imaging`](pfb-imaging/) — Radio interferometric imaging suite based on the preconditioned forward-backward algorithm with Dask parallelism.
+- [`tricolour`](tricolour/) — An offline, Measurement Set direct version of the SDP online flagger wrapped in Dask.
+- [`xarray-kat`](xarray-kat/) — xarray MSv4 views over the MeerKAT archive for accessing observation data.
+- [`xarray-ms`](xarray-ms/) — xarray MSv4 views over CASA MSv2 Measurement Sets for data analysis.
 
 ## Getting started
 
